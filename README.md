@@ -14,7 +14,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;Android+Developer;Compititive+Programmer;Web+Designer;Web+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Android+Developer;Compititive+Programmer;Web+Designer;Web+Developer;Desktop+Application+Developer;Java+Developer;)](https://git.io/typing-svg)
 </div>
 
 

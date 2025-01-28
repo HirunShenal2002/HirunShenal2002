@@ -30,8 +30,6 @@
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **hirunsenal@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
 
 </td>
 <td width="50%" align="center">
